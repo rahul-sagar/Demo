@@ -7,4 +7,7 @@ public class StudentManagement {
 		sp.start();
 		
 	}
+	public void hello() {
+		
+	}
 }
