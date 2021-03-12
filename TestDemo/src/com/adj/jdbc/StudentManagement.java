@@ -10,4 +10,7 @@ public class StudentManagement {
 	public void hello() {
 		
 	}
+	public void mymathod() {
+		
+	}
 }
